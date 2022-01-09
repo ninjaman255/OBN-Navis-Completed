@@ -1,0 +1,19 @@
+imagePath="Shuriken.png"
+
+animation state="Shuriken"
+frame duration="0" x="241" y="2" w="32" h="32" originx="16" originy="16"
+
+animation state="Shuriken_land"
+frame duration="0.2" x="276" y="6" w="32" h="32" originx="16" originy="20"
+frame duration="0.2" x="312" y="6" w="32" h="32" originx="16" originy="20"
+frame duration="0.2" x="347" y="6" w="32" h="32" originx="16" originy="20"
+
+animation state="Navi_poof"
+frame duration="0.05" x="17" y="18" w="8" h="8" originx="4" originy="4"
+frame duration="0.05" x="30" y="11" w="16" h="19" originx="8" originy="11"
+frame duration="0.05" x="51" y="10" w="20" h="22" originx="11" originy="12"
+frame duration="0.05" x="76" y="8" w="24" h="26" originx="12" originy="15"
+frame duration="0.05" x="105" y="7" w="26" h="27" originx="14" originy="16"
+frame duration="0.05" x="136" y="6" w="28" h="29" originx="16" originy="17"
+frame duration="0.05" x="169" y="6" w="30" h="30" originx="16" originy="17"
+frame duration="0.05" x="204" y="6" w="30" h="30" originx="16" originy="17"

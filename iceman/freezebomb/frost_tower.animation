@@ -1,0 +1,8 @@
+imagePath="C:/Users/seven/Desktop/ONB Play/Release Latest/resources/mods/players/iceman/freezebomb/frost_tower.png"
+
+animation state="DEFAULT"
+frame duration="0.075" x="0" y="34" w="11" h="12" originx="5" originy="11"
+frame duration="0.075" x="16" y="27" w="18" h="21" originx="8" originy="20"
+frame duration="0.075" x="40" y="19" w="21" h="30" originx="9" originy="29"
+frame duration="0.075" x="64" y="0" w="32" h="51" originx="15" originy="50"
+frame duration="0.075" x="100" y="1" w="32" h="50" originx="15" originy="49"

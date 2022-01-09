@@ -1,0 +1,11 @@
+imagePath="C:/Users/Proto/Code/OpenNetBattle/BattleNetwork/resources/ow/prog/mug.png"
+
+animation state="TALK"
+frame duration="0.1" x="2" y="2" w="40" h="48" originx="0" originy="0"
+frame duration="0.1" x="47" y="2" w="40" h="48" originx="0" originy="0"
+frame duration="0.1" x="92" y="2" w="40" h="48" originx="0" originy="0"
+
+animation state="IDLE"
+frame duration="5" x="2" y="2" w="40" h="48" originx="0" originy="0"
+frame duration="0.1" x="137" y="2" w="40" h="48" originx="0" originy="0"
+frame duration="0.1" x="182" y="2" w="40" h="48" originx="0" originy="0"
